@@ -25,7 +25,7 @@ body {
  
 
 .sidebar a:hover:not(.active) {
-  background-color: #c3f3fd;
+  background-color: #066a74;
   color: rgb(0, 127, 123);
   font-weight: bold;  
 }
