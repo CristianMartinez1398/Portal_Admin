@@ -25,8 +25,8 @@ body {
  
 
 .sidebar a:hover:not(.active) {
-  background-color: #066a74;
-  color: rgb(0, 127, 123);
+  background-color: #ebfdfe;
+  color: #066a74;
   font-weight: bold;  
 }
 
@@ -37,7 +37,11 @@ div.content {
 }
 
 .bodysidebar {
-    margin-top: 50%;
+    margin-top: 10%;
+}
+
+.cardstyle{
+    box-shadow: 0px 5px 10px #171a1f94, 0px 0px 2px #171a1f1F;
 }
 
 
